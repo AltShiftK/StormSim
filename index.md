@@ -1,5 +1,4 @@
 <head>
-    <title>Development Webpage</title>
     <font face="arial">
         <h1>Congrats, the site works!</h1>
         <h2>This is a temporary webpage. Sooner or later, a simulator will be installed.</h2>
