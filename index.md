@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <head>
     <title>Development Webpage</title>
     <font face="arial">
